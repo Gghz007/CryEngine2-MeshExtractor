@@ -49,7 +49,7 @@ Mesh: Objects/glm/ww2_indust_set1/WALLS/wall_B_200x400z.cgf
 
 1. Launch **Sandbox Editor**
 2. Load any level
-3. Run **Extreme Injector**
+3. Run **Extreme Injector** https://github.com/master131/ExtremeInjector/releases/tag/v3.7.3
 4. Select process: `Editor.exe`
 5. Add `MeshExtractor64.dll`
 6. Click **Inject**
